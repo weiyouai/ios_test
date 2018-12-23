@@ -15,6 +15,12 @@
                     <key>url</key>
                     <string>https://weiyouai.github.io/ios_test/CDC_CRM.ipa</string>
                 </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://weiyouai.github.io/ios_test/test.png</string>
+                </dict>
             </array>
             <key>metadata</key>
             <dict>
